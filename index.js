@@ -34,4 +34,4 @@ resultado = cerveza + vinoTinto + aperitivos + vinoBlanco + whisky;
 }
 sumaDeProductos (cerveza,vinoTinto,aperitivos,vinoBlanco,whisky);
 
-alert(resultado);
+alert("El total de productos que quieres comprar es " + resultado);
